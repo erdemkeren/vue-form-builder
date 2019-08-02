@@ -31,7 +31,7 @@ export class FormJsonValidator {
                 }
 
                 return true
-            })
+            }, true)
         }
 
         if(! ('uuid' in json && 'type' in json && 'items' in json)) {
