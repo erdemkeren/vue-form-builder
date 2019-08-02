@@ -1,5 +1,9 @@
 # vue-form-builder
 
+This is a dynamic form builder application with import/export options.
+
+See: https://github.com/erdemkeren/vue-form-builder
+
 ## Project setup
 ```
 yarn install
